@@ -34,7 +34,7 @@ Code of the geometrical optimisation of a metamaterial to obtain quasi-zero-stif
 3.3: the code named "Silicone optimisation" can be used for the optimisation when silicone bulk is preferred, the code named "TPC optimisation" can be used for the optimisation when Thermoplastic copolymer bulk is preferred.
 
 
-Note: In this code, "linear spring" is used. In the research paper, it is also referred to as "tension bar".
+Note: In this code, "linear spring" and "tension bar" are interchangeably used. In the research paper, it is referred to as "tension bar".
 
 ## 4. Contributing <a name="contributing"></a>
 
@@ -42,7 +42,7 @@ Note: In this code, "linear spring" is used. In the research paper, it is also r
 
 ## 5. Acknowledgements <a name="acknowledgements"></a>
 
-We would like to express our gratitude to our supervisor Freek Broeren his invaluable contribution throughout this research endeavour.
+We would like to express our gratitude to our supervisor Freek Broeren for his invaluable contribution throughout this research endeavour.
 
 
 Authors:
