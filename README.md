@@ -27,11 +27,11 @@ Code of the geometrical optimisation of a metamaterial to obtain quasi-zero-stif
 
 ## 3. Features <a name="features"></a>
 
-3.1: This code can optimise a set of parameters to create zero-stiffness. At the end, the optimised parameters are printed as well as the size of one side of the full sized geometry, the length of the QZS region and the QZS percentage over the possible compressionrange.  
+3.1: This code can optimise a set of parameters to create quasi-zero stiffness. At the end, the optimised parameters are printed as well as the size of one side of the full-sized geometry, the length of the QZS region and the QZS percentage over the possible compression range.  
 
-3.2: The main thing a user can alter, are the initial values, so the user can experiment with the code. These can be found in the second line of the second cell. Further, values of stepsize (5th line, second cell) , bounds of the optimisable parameters (line 8-12, second cell), as well as the type of optimiser within basinhopping (1st line, 12th cell) can be changed. However, this will drastically alter the code's behaviour. This is fully at the risk of the user. It is recommended to have a copy of the original code before altering the code.
+3.2: The main thing a user can alter, are the initial values, so the user can experiment with the code. These can be found in the second line of the second cell. Further, values of stepsize (5th line, second cell), bounds of the optimisable parameters (lines 8-12, second cell), as well as the type of optimiser within basinhopping (1st line, 12th cell) can be changed. However, this will drastically alter the code's behaviour. This is fully at the risk of the user. It is recommended to have a copy of the original code before altering the code.
 
-3.3: the code named "Silicone optimisation" can be used for the optimisation when silicone bulk is preferred, the code named "TPC optimisation" can be used for the optimisation when Thermoplastic copolymer bulk is preferred.
+3.3: the code, named "Silicone optimisation", can be used for the optimisation when silicone bulk is preferred, the other code, named "TPC optimisation", can be used for the optimisation when Thermoplastic copolymer bulk is preferred.
 
 
 Note: In this code, "linear spring" and "tension bar" are interchangeably used. In the research paper, it is referred to as "tension bar".
@@ -51,7 +51,7 @@ Tom Krom, BSc student Mechanical Engineering at TU Delft (studentnumber 5635683)
 
 Thomas Paddeu, BSc student Mechanical Engineering at TU Delft (studentnumber 5607663): www.linkedin.com/in/thomaspaddeu/
 
-Luc Pijnenburg, BSc student Mechanical Engineering at TU Delft (studentnumber 5593344): www.linkedin.com/in/luc-p-7389461aa/
+Luc Pijnenburg, BSc student Mechanical Engineering at TU Delft (studentnumber 5593344): www.linkedin.com/in/LucPijnenburg/
 
 Florian Simor, BSc student Mechanical Engineering at TU Delft (studentnumber 5628733): www.linkedin.com/in/florian-simor/
 
